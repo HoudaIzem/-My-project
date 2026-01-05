@@ -22,4 +22,4 @@ Le jeu inclut la gestion des collisions, la logique de mouvement et des interact
 4. Le jeu se termine lorsque l’un des vaisseaux est touché
 
 ## Auteur
-[Votre Nom]
+[Houda Izem]
